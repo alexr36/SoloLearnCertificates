@@ -1,6 +1,6 @@
 # 🏆 My SoloLearn Journey & Certificates
 
-Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below you will find a categorized list of my **30** completed courses and certifications.
+Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below you will find a categorized list of all my completed courses and certifications.
 
 👤 **[Visit my SoloLearn Profile](https://www.sololearn.com/en/profile/12482711)**
 
