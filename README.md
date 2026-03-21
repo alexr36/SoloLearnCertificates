@@ -1,5 +1,7 @@
 # All my SoloLearn.com certificates
 
+[Link to my profile](https://www.sololearn.com/en/profile/12482711)
+
 ## List of the certificates
 |Num|                          Course Name                                           |
 |--:|:-------------------------------------------------------------------------------|
