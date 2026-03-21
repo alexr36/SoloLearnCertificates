@@ -65,4 +65,3 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 | **Tech for Everyone** | [View Certificate](https://www.sololearn.com/certificates/CC-OZ2NEN6Y) |
 
 ---
-*Generated with passion for continuous learning.* 🚀
