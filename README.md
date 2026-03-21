@@ -9,44 +9,44 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 ### 🐍 Python
 | Course Name | Certificate Link |
 | :--- | :--- |
+| **Introduction to Python** | [View Certificate](https://www.sololearn.com/certificates/CC-MHK2V05Z) |
+| **Python Intermediate** | [View Certificate](https://www.sololearn.com/certificates/CC-PXV26FA8) |
 | **Python Developer** | [View Certificate](https://www.sololearn.com/certificates/CC-FIRJGGKO) |
 | **Python Core** | [View Certificate](https://www.sololearn.com/certificates/CC-EEQH71JJ) |
-| **Python Intermediate** | [View Certificate](https://www.sololearn.com/certificates/CC-PXV26FA8) |
-| **Introduction to Python** | [View Certificate](https://www.sololearn.com/certificates/CC-MHK2V05Z) |
 
 ### 🌐 Web Development (HTML, CSS, JS)
 | Course Name | Certificate Link |
 | :--- | :--- |
 | **Web Development** | [View Certificate](https://www.sololearn.com/certificates/CC-0SEMGK9G) |
-| **JavaScript** | [View Certificate](https://www.sololearn.com/certificates/CC-PJC64GF7) |
-| **JavaScript Intermediate** | [View Certificate](https://www.sololearn.com/certificates/CC-UMW6RNGZ) |
 | **Introduction to JavaScript** | [View Certificate](https://www.sololearn.com/certificates/CC-AKDNKATX) |
-| **CSS** | [View Certificate](https://www.sololearn.com/certificates/CT-RXE1E2XA) |
+| **JavaScript Intermediate** | [View Certificate](https://www.sololearn.com/certificates/CC-UMW6RNGZ) |
+| **JavaScript** | [View Certificate](https://www.sololearn.com/certificates/CC-PJC64GF7) |
 | **Introduction to CSS** | [View Certificate](https://www.sololearn.com/certificates/CC-CGATUUBY) |
-| **HTML** | [View Certificate](https://www.sololearn.com/certificates/CT-8XKY3DVO) |
+| **CSS** | [View Certificate](https://www.sololearn.com/certificates/CT-RXE1E2XA) |
 | **Introduction to HTML** | [View Certificate](https://www.sololearn.com/certificates/CC-OFUTAWBC) |
+| **HTML** | [View Certificate](https://www.sololearn.com/certificates/CT-8XKY3DVO) |
 
 ### ⚙️ C & C++
 | Course Name | Certificate Link |
 | :--- | :--- |
-| **C++ Intermediate** | [View Certificate](https://www.sololearn.com/certificates/CC-ZLZMZIYW) |
 | **Introduction to C++** | [View Certificate](https://www.sololearn.com/certificates/CC-X9ZSJ2SX) |
-| **C Intermediate** | [View Certificate](https://www.sololearn.com/certificates/CC-O3LML3CI) |
+| **C++ Intermediate** | [View Certificate](https://www.sololearn.com/certificates/CC-ZLZMZIYW) |
 | **Introduction to C** | [View Certificate](https://www.sololearn.com/certificates/CC-NJ2G5RCX) |
+| **C Intermediate** | [View Certificate](https://www.sololearn.com/certificates/CC-O3LML3CI) |
 
 ### ☕ Java & Mobile
 | Course Name | Certificate Link |
 | :--- | :--- |
-| **Java Intermediate** | [View Certificate](https://www.sololearn.com/certificates/CC-VG5OAUOM) |
 | **Introduction to Java** | [View Certificate](https://www.sololearn.com/certificates/CC-CIKZ2UXM) |
+| **Java Intermediate** | [View Certificate](https://www.sololearn.com/certificates/CC-VG5OAUOM) |
 | **Swift 4** | [View Certificate](https://www.sololearn.com/certificates/CC-NJGOHFQ7) |
 
 ### 🗄️ Data & SQL
 | Course Name | Certificate Link |
 | :--- | :--- |
 | **Coding for Data** | [View Certificate](https://www.sololearn.com/certificates/CC-ID3LBLV3) |
-| **SQL Intermediate** | [View Certificate](https://www.sololearn.com/certificates/CC-QQVZXJDT) |
 | **Introduction to SQL** | [View Certificate](https://www.sololearn.com/certificates/CC-ONPREQAO) |
+| **SQL Intermediate** | [View Certificate](https://www.sololearn.com/certificates/CC-QQVZXJDT) |
 
 ### 🤖 Artificial Intelligence
 | Course Name | Certificate Link |
