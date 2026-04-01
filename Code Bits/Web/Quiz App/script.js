@@ -14,11 +14,11 @@ const MAX_QUESTIONS = 3;
 const SECOND_MS = 1000;
 const TIME_FADE_IN_MS = 10;
 const TIME_QUESTION_CARD_JUMP = 20;
+const TIME_LIMIT_S = 5;
 
 let questionNumber = 0;
 let score = 0;
 let correctAnswer = null;
-let timeLimit = 5;
 let currentTime = 0;
 
 // Variables to access elements on the web page
@@ -95,7 +95,7 @@ function resetButtonColor(button) {
  * @returns {void}
  */
 function trueButton() {
-  if (correctAnswer == null) return;
+  if (correctAnswer === null) return;
   // Check if true is the correct answer
     // Add 1 to the score if it is correct
   if (correctAnswer) handleCorrectAnswer();
@@ -105,7 +105,7 @@ function trueButton() {
 
   // Call the nextQuestion() function to load the next question;
   if (!correctAnswer) handleWrongAnswer();
-  if (correctAnswer != null) nextQuestion();
+  if (correctAnswer !== null) nextQuestion();
 }
 
 /**
@@ -113,7 +113,7 @@ function trueButton() {
  * @returns {void}
  */
 function falseButton() {
-  if (correctAnswer == null) return;
+  if (correctAnswer === null) return;
   // Check if false is the correct answer
     // Add 1 to the score if it is correct
   if (!correctAnswer) handleCorrectAnswer();
@@ -123,8 +123,7 @@ function falseButton() {
 
   // Call the nextQuestion() function to load the next question;
   if (correctAnswer) handleWrongAnswer();
-
-  nextQuestion();
+  if (correctAnswer !== null) nextQuestion();
 }
 
 /**
@@ -153,7 +152,7 @@ function handleWrongAnswer() {
  * @returns {void}
  */
 function nextQuestion(){
-  currentTime = timeLimit;
+  currentTime = TIME_LIMIT_S;
   animateQuestionCard();
   questionNumber = questionNumber + 1;
 
@@ -200,7 +199,7 @@ function resetQuiz() {
   nextQuestion();
 
   errorList.innerHTML = '';
-  currentTime = timeLimit;
+  currentTime = TIME_LIMIT_S;
 
   clearInterval(timer);
 
