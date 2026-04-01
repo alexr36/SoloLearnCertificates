@@ -56,6 +56,24 @@ falseButtonElement.addEventListener(
 
 // Functions to handle the quiz logic
 /**
+ * Adds event listeners to the reset button for pointerover and pointerout events.
+ * Needed because the reset button is created dynamically after the user 
+ * finishes the quiz, so event listeners cannot be added to it at the beginning 
+ * of the script.
+ * @return {void}
+ */
+function addResetButtonEventListeners(resetButton) {
+  resetButton.addEventListener(
+    "pointerover",
+    () => { setButtonColor(resetButton, "lightgray"); }
+  )
+  resetButton.addEventListener(
+    "pointerout",
+    () => { resetButtonColor(resetButton); }
+  )
+}
+
+/**
  * Sets the background color of a button to the specified color.
  * @param {HTMLElement} button 
  * @param {string} color 
@@ -138,6 +156,7 @@ function nextQuestion(){
   currentTime = timeLimit;
   animateQuestionCard();
   questionNumber = questionNumber + 1;
+
   switch (questionNumber){
     case 1:
       question.textContent = 'Is the Earth flat?';
@@ -163,6 +182,7 @@ function nextQuestion(){
       }
       
       resetButton.addEventListener("click", resetQuiz);
+      addResetButtonEventListeners(resetButton);
   }
 }
 
@@ -176,12 +196,18 @@ function resetQuiz() {
   questionNumber = 0;
   score = 0;
   correctAnswer = null;
+
   nextQuestion();
+
   errorList.innerHTML = '';
   currentTime = timeLimit;
+
   clearInterval(timer);
+
   timer = setInterval(handleTimer, SECOND_MS);
   timerDisplay.innerHTML = getTimerText();
+  points.textContent = score;
+  document.body.removeChild(document.getElementById("reset"));
 }
 
 /**
@@ -223,7 +249,6 @@ function handleTimer() {
   if (questionNumber > MAX_QUESTIONS) clearInterval(timer);
 
   if (currentTime == 0) {
-    //currentTime = timeLimit;
     nextQuestion();
   }
 
