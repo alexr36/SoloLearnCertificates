@@ -1,0 +1,109 @@
+/*
+ * *****************************************************************************
+ * @file           : styles.css
+ * @author         : Alex Rogoziński
+ * @brief          : This file contains CSS styles for a user's profile page, 
+                     including styling for the body, headings, profile information, 
+                     and streak indicators. It also includes an animation 
+                     for active days in the streak.
+ * *****************************************************************************
+ */
+
+body {
+    background-color: darkslategrey;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    text-align: center;
+    color:      white;
+}
+
+h1 {
+    text-align: center;
+    color:      white;
+}
+
+h2 {
+    text-align: center;
+    color:      white;
+}
+
+h3 {
+    text-align: center;
+    color:      white;
+}
+
+h4 {
+    text-align: center;
+    color:      white;
+}
+
+h5 {
+    text-align: center;
+    color:      white;
+}
+
+h6 {
+    text-align: center;
+    color:      white;
+}
+
+#profile {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.active-day {
+    color: #00CC00;
+    animation-name: pulse;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+.inactive-day {
+    color: #CCCCCC;
+}
+
+#profile {
+    list-style: none;
+}
+
+#profile li {
+    display: inline;
+    margin: 15px;
+}
+
+#streak {
+    text-align: center;
+    list-style: none;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+
+#streak ul li {
+    display: inline;
+    margin: 5px;
+    padding: 5px;
+}
+
+#streak p {
+    color: #676767;
+    display: inline;
+    margin: 10px;
+}
+
+@keyframes pulse {
+    0% { 
+        font-size: 100%;
+    }
+    50% { 
+        font-size: 120%;
+        color: #00CC00; 
+    }
+    100% { 
+        font-size: 100%;
+        transform: scale(1); 
+    }
+}

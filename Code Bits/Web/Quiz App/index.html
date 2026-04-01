@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!--
+********************************************************************************
+@file           : index.html
+@author         : Alex Rogoziński
+@brief          : This file contains the HTML structure for the Quiz App, 
+                  provided by SoloLearn.
+********************************************************************************
+-->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="SoloLearn.com" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <h1 id='appName'>True or False?</h1>
+	<p id='timer'>Time:</p>
+	<div class='questionCard'>
+	  <p id='question'>Welcome to the game!</p>
+	</div>
+	<div id='answers'>
+	  <button id='true' onclick='trueButton();'>True</button>
+	  <span>or</span>
+	  <button id='false' onclick='falseButton();'>False</button>
+	</div>
+	<div id='score'>
+	  <span>Score: </span><span id='points'>0</span>
+	</div>
+	<div id='errors'>
+		<p>Mistakes:</p>
+		<ul id='error-list'></ul>
+	</div>
+  </body>
+</html>

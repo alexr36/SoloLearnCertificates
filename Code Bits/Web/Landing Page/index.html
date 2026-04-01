@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!--
+*****************************************************************************
+@file           : index.html
+@author         : Alex Rogoziński
+@brief          : This file contains code 
+*****************************************************************************
+-->
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="SoloLearn.com, Alex Rogoziński">
+        <title>My web page title</title>
+    </head>
+    <body>
+        <header style="background-color:red; color:blue">
+            <h1>My Own Awesome Whatever It Is</h1>
+        </header>
+        <main>
+            <!--Image and some explanation-->
+            <img src="https://blob.sololearn.com/courses/np.png">
+            <p>Introducing my <b>new product</b>, I <u>don't know</u> what is this web page about but <i>I have to make it work.</i></p>
+
+            <ul>
+                <li>Some feature</li>
+                <li>Another feature</li>
+                <li>Yet another feature</li>
+            </ul>
+
+            <!--Ordering section-->
+            <h2 style="color:green; border:dashed; border-color:gray">ORDERING SECTION</h2>
+            <form>
+                <label for="choice">Your choice:</label>
+                <select name="choice" id="choice">
+                    <option value="r">Red</option>
+                    <option value="g">Green</option>
+                    <option value="b">Blue</option>
+                </select>
+
+                <br><br>
+
+                <label for="t1">Enter your message:</label>
+                <input type="text" id="t1" name="message">
+                
+                <br>
+                
+                <label for="em">Enter your email:</label>
+                <input type="email" id="em" name="email">
+
+                <br>
+
+                <input 
+                    type="submit" 
+                    style="border:none; border-radius:5px; color:blue; background-color:red" 
+                    onclick="alert('Order Confirmed!')"
+                >
+            </form>
+        </main>
+        <footer style="background-color:yellow; color:red; border:dotted">
+            <p>Some content in the footer.</p>
+        </footer>
+    </body>
+</html>
