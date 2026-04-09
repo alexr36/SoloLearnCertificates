@@ -25,8 +25,8 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 | **CSS**                        | [View Certificate](https://www.sololearn.com/certificates/CT-RXE1E2XA) |
 | **Introduction to HTML**       | [View Certificate](https://www.sololearn.com/certificates/CC-OFUTAWBC) |
 | **HTML**                       | [View Certificate](https://www.sololearn.com/certificates/CT-8XKY3DVO) |
-| **Angular**                    | [In Progress...]() |
-| **Front-end for Beginners**    | [In Progress...]() |
+| **Angular**                    | [View Certificate](https://www.sololearn.com/certificates/CC-CRAGMCQ8) |
+| **Front-end for Beginners**    | [View Certificate](https://www.sololearn.com/certificates/CC-Y8AJLG0K) |
 
 ### ⚙️ C, C++ & C#
 | Course Name             | Certificate Link                                                       |
