@@ -1,0 +1,28 @@
+#note-container {
+  background-color: #fff;
+  margin: auto;
+  padding: 20px;
+  border-radius: 15px;
+  width: 80%;
+}
+.red {
+  background-color: indianred;
+  cursor: pointer;
+}
+.center {
+  margin-top: 15px;
+  text-align: center;
+}
+#delete-button {
+  width: auto;
+  display: inline-block;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 20px;
+  background-color: #ff0011;
+  color: #fff;
+  font-size: 10pt;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+}
