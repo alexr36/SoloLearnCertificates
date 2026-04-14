@@ -35,7 +35,8 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 | **C++ Intermediate**    | [View Certificate](https://www.sololearn.com/certificates/CC-ZLZMZIYW) |
 | **Introduction to C**   | [View Certificate](https://www.sololearn.com/certificates/CC-NJ2G5RCX) |
 | **C Intermediate**      | [View Certificate](https://www.sololearn.com/certificates/CC-O3LML3CI) |
-| **Introduction to C#**  | [In Progress...]() |
+| **Introduction to C#**  | [View Certificate](https://www.sololearn.com/certificates/CC-QGSYSOWA) |
+| **C# Intermediate**     | [In Progress...]() |
 
 ### ☕ Java & Mobile
 | Course Name              | Certificate Link                                                       |
