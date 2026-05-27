@@ -63,6 +63,7 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 | **Generative AI in Practice** | [View Certificate](https://www.sololearn.com/certificates/CC-S5NJBPNM) |
 | **Agentic Workflows**         | [In Progress...]() |
 | **SEO with AI**               | [View Certificate](https://www.sololearn.com/certificates/CC-LP5TJV0E) |
+| **Build a Runner Game**       | [In Progress...]() |
 
 ### 🛠️ Foundations & General Tech
 | Course Name            | Certificate Link                                                       |
