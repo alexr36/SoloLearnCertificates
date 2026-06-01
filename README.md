@@ -61,7 +61,7 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 | **Vibe Coding**               | [View Certificate](https://www.sololearn.com/certificates/CC-IVRUCGNM) |
 | **Ethical AI Foundations**    | [View Certificate](https://www.sololearn.com/certificates/CC-DIX3GPEO) |
 | **Generative AI in Practice** | [View Certificate](https://www.sololearn.com/certificates/CC-S5NJBPNM) |
-| **Agentic Workflows**         | [In Progress...]() |
+| **Agentic Workflows**         | [View Certificate](https://www.sololearn.com/certificates/CC-Q4J2YSMX) |
 | **SEO with AI**               | [View Certificate](https://www.sololearn.com/certificates/CC-LP5TJV0E) |
 | **Build a Runner Game**       | [In Progress...]() |
 
