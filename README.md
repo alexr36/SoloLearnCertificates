@@ -64,7 +64,7 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 | **Agentic Workflows**         | [View Certificate](https://www.sololearn.com/certificates/CC-Q4J2YSMX) |
 | **SEO with AI**               | [View Certificate](https://www.sololearn.com/certificates/CC-LP5TJV0E) |
 | **Build a Runner Game**       | [In Progress...]() |
-| **Data Literacy with AI**     | [In Progress...]() |
+| **Data Literacy with AI**     | [View Certificate](https://www.sololearn.com/certificates/CC-UIK9QHC2) |
 
 ### 🛠️ Foundations & General Tech
 | Course Name            | Certificate Link                                                       |
