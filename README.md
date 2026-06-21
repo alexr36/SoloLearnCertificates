@@ -66,6 +66,7 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 | **Build a Runner Game**            | [In Progress...]() |
 | **Data Literacy with AI**          | [View Certificate](https://www.sololearn.com/certificates/CC-UIK9QHC2) |
 | **Machine Learning for Beginners** | [View Certificate](https://www.sololearn.com/certificates/CC-NPIFDCWZ) |
+| **Meet Claude**                    | [View Certificate](https://www.sololearn.com/certificates/CC-MDTOXJNE) |
 
 ### 🛠️ Foundations & General Tech
 | Course Name            | Certificate Link                                                       |
