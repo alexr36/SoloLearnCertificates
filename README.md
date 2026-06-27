@@ -53,20 +53,21 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 | **SQL Intermediate**    | [View Certificate](https://www.sololearn.com/certificates/CC-QQVZXJDT) |
 
 ### 🤖 Artificial Intelligence
-| Course Name                        | Certificate Link                                                       |
-| :--------------------------------- | :--------------------------------------------------------------------- |
-| **Data Analytics with AI**         | [View Certificate](https://www.sololearn.com/certificates/CC-TG3BGHQK) |
-| **Write with AI**                  | [View Certificate](https://www.sololearn.com/certificates/CC-AK810RZ1) |
-| **Think Creatively with AI**       | [View Certificate](https://www.sololearn.com/certificates/CC-Q0IIUZCX) |
-| **Vibe Coding**                    | [View Certificate](https://www.sololearn.com/certificates/CC-IVRUCGNM) |
-| **Ethical AI Foundations**         | [View Certificate](https://www.sololearn.com/certificates/CC-DIX3GPEO) |
-| **Generative AI in Practice**      | [View Certificate](https://www.sololearn.com/certificates/CC-S5NJBPNM) |
-| **Agentic Workflows**              | [View Certificate](https://www.sololearn.com/certificates/CC-Q4J2YSMX) |
-| **SEO with AI**                    | [View Certificate](https://www.sololearn.com/certificates/CC-LP5TJV0E) |
-| **Build a Runner Game**            | [In Progress...]() |
-| **Data Literacy with AI**          | [View Certificate](https://www.sololearn.com/certificates/CC-UIK9QHC2) |
-| **Machine Learning for Beginners** | [View Certificate](https://www.sololearn.com/certificates/CC-NPIFDCWZ) |
-| **Meet Claude**                    | [View Certificate](https://www.sololearn.com/certificates/CC-MDTOXJNE) |
+| Course Name                            | Certificate Link                                                       |
+| :------------------------------------- | :--------------------------------------------------------------------- |
+| **Data Analytics with AI**             | [View Certificate](https://www.sololearn.com/certificates/CC-TG3BGHQK) |
+| **Write with AI**                      | [View Certificate](https://www.sololearn.com/certificates/CC-AK810RZ1) |
+| **Think Creatively with AI**           | [View Certificate](https://www.sololearn.com/certificates/CC-Q0IIUZCX) |
+| **Vibe Coding**                        | [View Certificate](https://www.sololearn.com/certificates/CC-IVRUCGNM) |
+| **Ethical AI Foundations**             | [View Certificate](https://www.sololearn.com/certificates/CC-DIX3GPEO) |
+| **Generative AI in Practice**          | [View Certificate](https://www.sololearn.com/certificates/CC-S5NJBPNM) |
+| **Agentic Workflows**                  | [View Certificate](https://www.sololearn.com/certificates/CC-Q4J2YSMX) |
+| **SEO with AI**                        | [View Certificate](https://www.sololearn.com/certificates/CC-LP5TJV0E) |
+| **Build a Runner Game**                | [In Progress...]() |
+| **Data Literacy with AI**              | [View Certificate](https://www.sololearn.com/certificates/CC-UIK9QHC2) |
+| **Machine Learning for Beginners**     | [View Certificate](https://www.sololearn.com/certificates/CC-NPIFDCWZ) |
+| **Meet Claude**                        | [View Certificate](https://www.sololearn.com/certificates/CC-MDTOXJNE) |
+| **Critical Thinking in the Age of AI** | [View Certificate](https://www.sololearn.com/certificates/CC-IFIWVENV) |
 
 ### 🛠️ Foundations & General Tech
 | Course Name            | Certificate Link                                                       |
