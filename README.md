@@ -68,6 +68,7 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 | **Machine Learning for Beginners**     | [View Certificate](https://www.sololearn.com/certificates/CC-NPIFDCWZ) |
 | **Meet Claude**                        | [View Certificate](https://www.sololearn.com/certificates/CC-MDTOXJNE) |
 | **Critical Thinking in the Age of AI** | [View Certificate](https://www.sololearn.com/certificates/CC-IFIWVENV) |
+| **Introduction to LLMs**               | [View Certificate](https://www.sololearn.com/certificates/CC-S70OJ8MY) |
 
 ### 🛠️ Foundations & General Tech
 | Course Name            | Certificate Link                                                       |
