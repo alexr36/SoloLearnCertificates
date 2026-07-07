@@ -72,6 +72,7 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 | **Prompt Engineering**                 | [View Certificate](https://www.sololearn.com/certificates/CC-G0Y6K0XP) |
 | **Visualise Your Data**                | [View Certificate](https://www.sololearn.com/certificates/CC-H9SVF4BO) |
 | **Project Planning with AI**           | [View Certificate](https://www.sololearn.com/certificates/CC-LEQKYNFC) |
+| **Brainstorm with AI**                 | [View Certificate](https://www.sololearn.com/certificates/CC-GIQWME4T) |
 
 ### 🛠️ Foundations & General Tech
 | Course Name            | Certificate Link                                                       |
