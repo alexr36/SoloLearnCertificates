@@ -74,6 +74,7 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 | **Project Planning with AI**           | [View Certificate](https://www.sololearn.com/certificates/CC-LEQKYNFC) |
 | **Brainstorm with AI**                 | [View Certificate](https://www.sololearn.com/certificates/CC-GIQWME4T) |
 | **Research with AI**                   | [View Certificate](https://www.sololearn.com/certificates/CC-BUESKIRN) |
+| **Social Media Marketing with AI**     | [View Certificate](https://www.sololearn.com/certificates/CC-VJNWF7UF) |
 
 ### 🛠️ Foundations & General Tech
 | Course Name            | Certificate Link                                                       |
