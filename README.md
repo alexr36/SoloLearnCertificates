@@ -74,9 +74,10 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 | **Project Planning with AI**           | [View Certificate](https://www.sololearn.com/certificates/CC-LEQKYNFC) |
 | **Brainstorm with AI**                 | [View Certificate](https://www.sololearn.com/certificates/CC-GIQWME4T) |
 | **Research with AI**                   | [View Certificate](https://www.sololearn.com/certificates/CC-BUESKIRN) |
-| **Social Media Marketing with AI**     | [View Certificate](https://www.sololearn.com/certificates/CC-VJNWF7UF) |
-| **Growth Mindset in the Age of AI**    | [View Certificate](https://www.sololearn.com/certificates/CC-3EE8QVRA) |
-| **AI-Powered A/B Testing**             | [View Certificate](https://www.sololearn.com/certificates/CC-3G0HETOY) |
+| **Social Media Marketing with AI**              | [View Certificate](https://www.sololearn.com/certificates/CC-VJNWF7UF) |
+| **Growth Mindset in the Age of AI**             | [View Certificate](https://www.sololearn.com/certificates/CC-3EE8QVRA) |
+| **AI-Powered A/B Testing**                      | [View Certificate](https://www.sololearn.com/certificates/CC-3G0HETOY) |
+| **Bias Detection and Mitigation in AI Systems** | [View Certificate](https://www.sololearn.com/certificates/CC-9MDC5NGI) |
 
 ### 🛠️ Foundations & General Tech
 | Course Name            | Certificate Link                                                       |
