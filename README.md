@@ -15,18 +15,19 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 | **Python Core**            | [View Certificate](https://www.sololearn.com/certificates/CC-EEQH71JJ) |
 
 ### 🌐 Web Development (HTML, CSS, JS)
-| Course Name                    | Certificate Link                                                       |
-| :----------------------------- | :--------------------------------------------------------------------- |
-| **Web Development**            | [View Certificate](https://www.sololearn.com/certificates/CC-0SEMGK9G) |
-| **Introduction to JavaScript** | [View Certificate](https://www.sololearn.com/certificates/CC-AKDNKATX) |
-| **JavaScript Intermediate**    | [View Certificate](https://www.sololearn.com/certificates/CC-UMW6RNGZ) |
-| **JavaScript**                 | [View Certificate](https://www.sololearn.com/certificates/CC-PJC64GF7) |
-| **Introduction to CSS**        | [View Certificate](https://www.sololearn.com/certificates/CC-CGATUUBY) |
-| **CSS**                        | [View Certificate](https://www.sololearn.com/certificates/CT-RXE1E2XA) |
-| **Introduction to HTML**       | [View Certificate](https://www.sololearn.com/certificates/CC-OFUTAWBC) |
-| **HTML**                       | [View Certificate](https://www.sololearn.com/certificates/CT-8XKY3DVO) |
-| **Angular**                    | [View Certificate](https://www.sololearn.com/certificates/CC-CRAGMCQ8) |
-| **Front-end for Beginners**    | [View Certificate](https://www.sololearn.com/certificates/CC-Y8AJLG0K) |
+| Course Name                                    | Certificate Link                                                       |
+| :--------------------------------------------- | :--------------------------------------------------------------------- |
+| **Web Development**                            | [View Certificate](https://www.sololearn.com/certificates/CC-0SEMGK9G) |
+| **Introduction to JavaScript**                 | [View Certificate](https://www.sololearn.com/certificates/CC-AKDNKATX) |
+| **JavaScript Intermediate**                    | [View Certificate](https://www.sololearn.com/certificates/CC-UMW6RNGZ) |
+| **JavaScript**                                 | [View Certificate](https://www.sololearn.com/certificates/CC-PJC64GF7) |
+| **Introduction to CSS**                        | [View Certificate](https://www.sololearn.com/certificates/CC-CGATUUBY) |
+| **CSS**                                        | [View Certificate](https://www.sololearn.com/certificates/CT-RXE1E2XA) |
+| **Introduction to HTML**                       | [View Certificate](https://www.sololearn.com/certificates/CC-OFUTAWBC) |
+| **HTML**                                       | [View Certificate](https://www.sololearn.com/certificates/CT-8XKY3DVO) |
+| **Angular**                                    | [View Certificate](https://www.sololearn.com/certificates/CC-CRAGMCQ8) |
+| **Front-end for Beginners**                    | [View Certificate](https://www.sololearn.com/certificates/CC-Y8AJLG0K) |
+| **TypeScript for Beginners: Code in the AI Era** | [View Certificate](https://www.sololearn.com/certificates/CC-P8LHOZDU) |
 
 ### ⚙️ C, C++ & C#
 | Course Name             | Certificate Link                                                       |
