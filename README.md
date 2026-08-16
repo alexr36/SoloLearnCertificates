@@ -81,6 +81,7 @@ Welcome to my SoloLearn portfolio! I am constantly expanding my skill set. Below
 | **Bias Detection and Mitigation in AI Systems** | [View Certificate](https://www.sololearn.com/certificates/CC-9MDC5NGI) |
 | **AI-Powered Product & UX**                     | [View Certificate](https://www.sololearn.com/certificates/CC-MUHUO9S5) |
 | **Critical Thinking - AI Era Practice**         | [View Certificate](https://www.sololearn.com/certificates/CC-JD1YM5BB) |
+| **AI Agents for Beginners: How They Work (Python)** | [View Certificate](https://www.sololearn.com/certificates/CC-2EOJ4ZAA) |
 
 ### 🛠️ Foundations & General Tech
 | Course Name            | Certificate Link                                                       |
